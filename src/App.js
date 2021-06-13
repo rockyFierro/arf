@@ -19,7 +19,7 @@ function App() {
                                 Follow me on
                                     things like the
                             </p>
-                            <a href="https://twitter.com/fierro_rocky">twitter</a>
+                            <a href="https://twitter.com/fierro_rocky"> twitter</a>
                                 or maybe at
                             <a href="https://www.risktofall.com"> my website</a>
                         </div>
